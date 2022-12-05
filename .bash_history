@@ -1,232 +1,3 @@
-cd passwd
-cd passwd
-pwd
-cd ,,/
-cd../
-cd ../
-cd ../
-pwd
-cd vodeos
-pwd
-ls
-cd /root/
-ll
-ls
-ls -al
-ls
-ls -al
-cd ../
-pwd
-ls -al
-ls
-exit
-ls
-pwd
-cd folder1
-ls
-cd folder1
-cd testfolder1
-ls
-ls
-cd testfolder2
-ls
-cd 1
-clear
-cd
-hostname
-cd
-home
-cd
-cd
-hostname
-my_name
-name
-ifconf ig
-ifconfig
-exit
-rmdir testfolder22
-pwd
-ls -al
-rm folder1/
-ls -C
-ls
-ls -a
-ls
-cd folder1
-ls
-cd testfolder1
-ls
-cd testfolder2
-ls
-cd pora
-ls
-cd ..
-ls
-rmdir pora
-ls
-cd ..
-rm -R testfolder21
-cd testfolder21
-ls
-cd testfolder22
-ls
-mkdir 1 2 3 4 5
-ls
-cd ..
-ls
-rm -R testfolder22
-ls
-man rm -R
-ls
-cd rmdir filder1
-cd folder1
-cd folder1
-ls
-cd testfolder1
-rm testfolder1
-ls
-rm testfolder22
-ls
-cd /
-rm testfolder22
-rmdir testfolder22
-pwd
-sudo su - 
-ls
-ls
-pwd
-whoami
-whoami
-myname is Anvesh
-who am i
-whoami
-man pwd
-pwd
-ps
-ls
-sudo su - 
-useradd anvesh
-ls
-cd folder1/
-ls
-cd testfildr1
-cd testfolder1
-ls
-useradd anvesh
-useradd anveshre
-sudo su 0
-sudo su -
-ls
-cd folder1/tesfolder1/testfolder1
-cd folder1/testfolder1
-ls
-cd  testfolder1
-cd testfolder2
-cd
-ls
-cd folder1/testfolder1/testfolder2
-pwd
-cd
-pwd
-cd folder1/testfolder1/testfolder2
-pwd
-ls
-cd testfolder21
-ls
-touch testfile.txt
-ls
-pwd
-touch 1 2 3 4 55 666 
-ls
-pwd
-nano testfile.txt
-nano testfile.txt
-nano testfile.txt
-pwd
-cd testfolder.txt
-nano testfolder.txt
-pwd 
-nano testfile.txt
-nano testfile.txt
-nano testfile.txt
-nano testfile.txt
-nano testfile.txt
-cat /etc/
-ct /etc/hostname
-cat /etc/hostname 
-ls /etc/
-pwd
-cat /etc
-cat /etc/
-ls /etc/
-ping www.google.com
-cd
-useradd Anvesh
-sudo su - 
-cd
-ls
-cd folder1
-ls
-cd testfolder1
-ls
-cd testfolder2
-ls
-rmdir testfolder21
-cd testfolder21
-ls
-rm -R testfolder21
-cd ..
-rm -R testfolder21
-ls
-exit
-ls
-pwd
-vi newa.txt
-vi new.txt
-nano new.txt
-cd new
-pwd
-ls -a
-nano newa.txt
-vi newa.txt
-vi newa.txt
-vi news1.txt
-ls
-vi newforgit.txt
-rm -Rnewforgit.txt
-rm -R newforgit.txt
-ls
-vi newforgit.txtjdDJjdJDojd 
-vi newforgit.txtjdDJjdJDojd 
-nano newforgit.txtjdDJjdJDojd 
-nano newforgit.txtjdDJjdJDojd 
-ls
-vi newforgit.txt
-vi newforgit.txt
-nano newforgit.txtjdDJjdJDojd 
-rm -iR newforgit.txtjdDJjdJDojd 
-ls
-ls
-reboot
-ls
-pwd
-cd /folder1/testfolder1/testfolder2
-cd /folder1/testfolder1
-cd /root/folder1/testfolder1
-cd
-sodu su - 
-sudo su - 
-ls
-nano folder1
-open folder1
-ls 
-cd folder1/testfolder1
-ls
-nano testfolder.txt
-nano textfolder.txt 
-nano testfolder.txt
-ls
-rm -R testfolder.txt
 ls
 cd textfolder.txt
 nano textfolder.txt
@@ -498,3 +269,233 @@ ls
 cd ..
 ls
 sudo su -
+ls
+cd /
+cd
+ls
+cd /
+ls
+logout
+ls
+touch place.txt
+ls
+vi place.txt
+git status 
+git add .
+git log 
+git status 
+git status 
+git stach 
+git stash
+git stash pop
+git add
+git add .
+git stash
+git stash clear
+git status 
+cd
+nano babu.txt
+ls
+touch babu.txt
+vi babu.txt
+pwd
+ls
+git status 
+touch babuS.txt
+ls
+git status 
+git add babuS.txt
+git status 
+git ccommit -m "babu.txt and babuS.txt files are added "
+git commit -m "babu.txt and babuS.txt files photo is taken "
+git status 
+git add .
+git commit -m "another file is added "
+git status 
+git log 
+rm -rf babuS.txt
+git status 
+git add .
+git commit -m " babuS.txt file is deleted "
+git log 
+LS
+git log 
+ls
+git reset c49df4a2436154366e6890132aeac3a83eda4520
+cd
+ls
+git status 
+git log 
+cd
+ls
+git stash pop
+cd
+ls
+cd 
+cd /
+ls
+sudo su - 
+exit
+sudo port install gh
+sudo port selfupdate && sudo port upgrade gh
+get git 
+git 
+git init
+git log
+git push origin master 
+git remort add origin https://github.com/anveshreddyseelam/my.git
+git remote add origin https://github.com/anveshreddyseelam/my.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/anveshreddyseelam/my.git
+git branch -M main
+git push -u origin main
+cd /
+ls
+cd
+cd ..
+cd /
+ls
+evit
+exit 
+exit
+cd
+ls
+cd /
+ls
+exit
+ls
+Praneeths-MacBook-Air:~ praneethreddyseelam$ 
+ls
+where echo
+echo $path
+cd
+ls
+ls -a
+ps1
+bsh
+bash
+echo $path
+ls
+echo $path 
+cd
+git config --global color.ui auto
+ls
+colour
+git status 
+git log 
+git log --stat -M
+git config --global user.name "[seelam anvesh]"e 
+git config --global user.name "[seelam anvesh]"
+git lig 
+git log 
+cd deosktop
+ls
+cd /
+ls
+exit
+cd
+ls
+cd /
+ls
+cd root
+logout 
+ls
+cd /
+cd /
+ls
+cd home
+ls
+ls
+ls
+cd /
+git config
+ls
+sudo su -
+ls
+sudo su -
+logout
+sudo licensexcodebuild 
+sudo xcodebild -license 
+sudo xcodebuild -license
+cd Library/Developer/CommandLineTools
+Library/Developer/CommandLineTools
+sudo port install putty
+ln -s /opt/local/bin/putty ~/Desktop/PuTTY
+ls
+cd /
+sudo su -
+exit
+sudo xcodebuild -license d 
+sudo xcodebuild -license 
+sudo Xcodebuild -license 
+xcode-select --install # Install Command Line Tools if you haven't already.
+sudo xcode-select --switch /Library/Developer/CommandLineTools # Enable command line tools
+# Change the path if you installed Xcode somewhere else.
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+sudo licensexcodebuild 
+sudo xcodebuild -license 
+node-gyp rebuild
+npm install
+git add .
+git commit -"add all"
+git commit -m"add all"
+ls
+sudo xcodebuild -license 
+xcode-select --install
+sudo xcode-select --switch /Library/Developer/CommandLineTools
+sudu xcodebuild -license 
+sudo  xcodebuild -license 
+cd Xcode
+sudo xcodebuild -licence
+sudo port -v selfupdate 
+cd /
+sudo port install putty 
+logout 
+putty 
+az network vnet create -g ${RG} -n ${RG}-vNET1 --address-prefix 10.28.0.0/16 \ 
+  --subnet-name ${RG}-Subnet-1 --subnet-prefix 10.28.1.0/24 -l eastus
+cd /
+cd ..
+pwd
+ls
+cd  /
+ls
+cd ~
+ls
+cd /
+cd ../
+exit
+lsblk
+lsblk
+terraform in it
+terraform init
+terraform plan
+terraform apply
+git init
+sit status 
+git status 
+git log 
+cd /
+putty
+cd ..
+cd /
+exit
+terraform -version
+terraform --version
+terraform version 
+git init 
+code .
+$ brew install git
+brew install git
+mkdir merging 
+cd merging/
+git init
+for I in {1..5}; do echo $(date) > "MASTER-COMMIT-1"
+for I in {1..5}; do  echo $(date) > MASTER-COMMIT-$1; git add . && git commit -m "MASTER-COMMIT-1"; sleep 1; done
+git log --oneline 
+git checkout -b dev
+got log --oneline 
+git log --oneline 
+for I in {1..5}; do  echo $(date) > DEV-COMMIT-$1; git add . && git commit -m "DEV-COMMIT-1"; sleep 1; done
+git init
