@@ -1,75 +1,3 @@
-pwd
-cat /etc
-cat /etc/
-ls /etc/
-ping www.google.com
-cd
-useradd Anvesh
-sudo su - 
-cd
-ls
-cd folder1
-ls
-cd testfolder1
-ls
-cd testfolder2
-ls
-rmdir testfolder21
-cd testfolder21
-ls
-rm -R testfolder21
-cd ..
-rm -R testfolder21
-ls
-exit
-ls
-pwd
-vi newa.txt
-vi new.txt
-nano new.txt
-cd new
-pwd
-ls -a
-nano newa.txt
-vi newa.txt
-vi newa.txt
-vi news1.txt
-ls
-vi newforgit.txt
-rm -Rnewforgit.txt
-rm -R newforgit.txt
-ls
-vi newforgit.txtjdDJjdJDojd 
-vi newforgit.txtjdDJjdJDojd 
-nano newforgit.txtjdDJjdJDojd 
-nano newforgit.txtjdDJjdJDojd 
-ls
-vi newforgit.txt
-vi newforgit.txt
-nano newforgit.txtjdDJjdJDojd 
-rm -iR newforgit.txtjdDJjdJDojd 
-ls
-ls
-reboot
-ls
-pwd
-cd /folder1/testfolder1/testfolder2
-cd /folder1/testfolder1
-cd /root/folder1/testfolder1
-cd
-sodu su - 
-sudo su - 
-ls
-nano folder1
-open folder1
-ls 
-cd folder1/testfolder1
-ls
-nano testfolder.txt
-nano textfolder.txt 
-nano testfolder.txt
-ls
-rm -R testfolder.txt
 ls
 cd textfolder.txt
 nano textfolder.txt
@@ -498,3 +426,76 @@ ls
 cd /
 sudo su -
 exit
+sudo xcodebuild -license d 
+sudo xcodebuild -license 
+sudo Xcodebuild -license 
+xcode-select --install # Install Command Line Tools if you haven't already.
+sudo xcode-select --switch /Library/Developer/CommandLineTools # Enable command line tools
+# Change the path if you installed Xcode somewhere else.
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+sudo licensexcodebuild 
+sudo xcodebuild -license 
+node-gyp rebuild
+npm install
+git add .
+git commit -"add all"
+git commit -m"add all"
+ls
+sudo xcodebuild -license 
+xcode-select --install
+sudo xcode-select --switch /Library/Developer/CommandLineTools
+sudu xcodebuild -license 
+sudo  xcodebuild -license 
+cd Xcode
+sudo xcodebuild -licence
+sudo port -v selfupdate 
+cd /
+sudo port install putty 
+logout 
+putty 
+az network vnet create -g ${RG} -n ${RG}-vNET1 --address-prefix 10.28.0.0/16 \ 
+  --subnet-name ${RG}-Subnet-1 --subnet-prefix 10.28.1.0/24 -l eastus
+cd /
+cd ..
+pwd
+ls
+cd  /
+ls
+cd ~
+ls
+cd /
+cd ../
+exit
+lsblk
+lsblk
+terraform in it
+terraform init
+terraform plan
+terraform apply
+git init
+sit status 
+git status 
+git log 
+cd /
+putty
+cd ..
+cd /
+exit
+terraform -version
+terraform --version
+terraform version 
+git init 
+code .
+$ brew install git
+brew install git
+mkdir merging 
+cd merging/
+git init
+for I in {1..5}; do echo $(date) > "MASTER-COMMIT-1"
+for I in {1..5}; do  echo $(date) > MASTER-COMMIT-$1; git add . && git commit -m "MASTER-COMMIT-1"; sleep 1; done
+git log --oneline 
+git checkout -b dev
+got log --oneline 
+git log --oneline 
+for I in {1..5}; do  echo $(date) > DEV-COMMIT-$1; git add . && git commit -m "DEV-COMMIT-1"; sleep 1; done
+git init
